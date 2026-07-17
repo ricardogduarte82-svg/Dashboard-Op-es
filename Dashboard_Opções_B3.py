@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import scipy.stats as si
 
-st.set_page_config(page_title="Dashboard de Opções B3", layout="wide")
+st.set_page_config(page_title="Dashboard Opções B3", layout="wide")
 
 # Estilização CSS para melhorar a interface
 st.markdown("""
