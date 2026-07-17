@@ -119,7 +119,7 @@ if 'legs' not in st.session_state:
     ]
 
 # --- CABEÇALHO SUPERIOR (DADOS DO ATIVO BASE) ---
-st.title("📊 Dashboard de Operações Estruturadas - B3")
+st.title("📊 Dashboard de Operações Opções - B3")
 st.markdown("---")
 
 col_ticker, col_spot, col_vol, col_selic, col_venc = st.columns(5)
